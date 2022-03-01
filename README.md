@@ -1,4 +1,4 @@
 # progress-steps
 click here : 
 [see Demo](https://umeshekh.github.io/progress-steps/)
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/Umeshekh/progress-steps/blob/main/images/ph.jpeg)
