@@ -1,3 +1,3 @@
 # progress-steps
-click here to see demo
-[see Demo](https://www.google.com)
+click here : 
+[see Demo](https://umeshekh.github.io/progress-steps/)
